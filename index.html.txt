@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>RPS MANPOWER CONSULTANCY</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+
+body{
+font-family:Arial,sans-serif;
+margin:0;
+background:#f5f7fa;
+}
+
+header{
+background:#0056b3;
+color:white;
+padding:20px;
+text-align:center;
+}
+
+nav{
+background:#003b80;
+padding:15px;
+text-align:center;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+margin:15px;
+}
+
+section{
+padding:40px;
+}
+
+.card{
+background:white;
+padding:20px;
+border-radius:10px;
+box-shadow:0 2px 10px #ddd;
+margin-bottom:20px;
+}
+
+footer{
+background:#003b80;
+color:white;
+padding:20px;
+text-align:center;
+}
+
+input,textarea{
+width:100%;
+padding:12px;
+margin:10px 0;
+}
+
+button{
+background:#0056b3;
+color:white;
+padding:12px 20px;
+border:none;
+cursor:pointer;
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+
+<h1>RPS MANPOWER CONSULTANCY</h1>
+
+<h3>Professional Recruitment & Staffing Solutions</h3>
+
+<p>📞 8882630886 | 8218177907</p>
+
+<p>📧 hr@rpsmanpower.com</p>
+
+</header>
+
+<nav>
+
+<a href="#home">Home</a>
+
+<a href="#about">About</a>
+
+<a href="#services">Services</a>
+
+<a href="#industries">Industries</a>
+
+<a href="#career">Career</a>
+
+<a href="#blog">Blog</a>
+
+<a href="#contact">Contact</a>
+
+</nav>
+
+
+<section id="home">
+
+<div class="card">
+
+<h2>Welcome to RPS MANPOWER CONSULTANCY</h2>
+
+<p>
+
+We provide Professional Recruitment & Staffing Solutions across India.
+
+</p>
+
+</div>
+
+</section>
+
+
+
+<section id="about">
+
+<div class="card">
+
+<h2>About Us</h2>
+
+<p>
+
+RPS Manpower Consultancy provides permanent staffing, contract staffing and executive search services.
+
+</p>
+
+</div>
+
+</section>
+
+
+
+<section id="services">
+
+<div class="card">
+
+<h2>Our Services</h2>
+
+<ul>
+
+<li>Permanent Staffing</li>
+
+<li>Contract Staffing</li>
+
+<li>Bulk Hiring</li>
+
+<li>Executive Search</li>
+
+<li>IT Recruitment</li>
+
+<li>Engineering Recruitment</li>
+
+</ul>
+
+</div>
+
+</section>
+
+
+
+<section id="industries">
+
+<div class="card">
+
+<h2>Industries We Serve</h2>
+
+<ul>
+
+<li>Manufacturing</li>
+
+<li>Automobile</li>
+
+<li>Steel</li>
+
+<li>Construction</li>
+
+<li>FMCG</li>
+
+<li>Logistics</li>
+
+<li>IT</li>
+
+</ul>
+
+</div>
+
+</section>
+
+
+
+<section id="career">
+
+<div class="card">
+
+<h2>Career Page</h2>
+
+<p>
+
+Candidates can email their resume to:
+
+<b>hr@rpsmanpower.com</b>
+
+</p>
+
+</div>
+
+</section>
+
+
+
+<section>
+
+<div class="card">
+
+<h2>Testimonials</h2>
+
+<p>
+
+★★★★★ Excellent recruitment services and quick response.
+
+</p>
+
+</div>
+
+</section>
+
+
+
+<section id="blog">
+
+<div class="card">
+
+<h2>Latest Blogs</h2>
+
+<ul>
+
+<li>How to Prepare for Interviews</li>
+
+<li>Top Recruitment Trends</li>
+
+<li>Resume Writing Tips</li>
+
+</ul>
+
+</div>
+
+</section>
+
+
+
+<section id="contact">
+
+<div class="card">
+
+<h2>Company Inquiry Form</h2>
+
+<form>
+
+<input type="text" placeholder="Company Name">
+
+<input type="text" placeholder="Contact Person">
+
+<input type="email" placeholder="Email">
+
+<textarea placeholder="Requirement"></textarea>
+
+<button>Submit</button>
+
+</form>
+
+</div>
+
+</section>
+
+
+<footer>
+
+<h3>RPS MANPOWER CONSULTANCY</h3>
+
+<p>
+
+Office No. 207, Wave Silver Tower,
+
+Sector-18, Noida - 201301
+
+</p>
+
+<p>
+
+📞 8882630886 | 8218177907
+
+</p>
+
+<p>
+
+GST No. 07ABDFR0210R1Z5
+
+</p>
+
+</footer>
+
+</body>
+
+</html>
